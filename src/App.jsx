@@ -29,7 +29,7 @@ const App = () => {
           <img src={star} alt="star" className="w-[0.8rem]" />
         </div>
         <div>
-          <h1 className="text-[1.1rem]">How did we do?</h1>
+          <h1 className="text-[1.125rem]">How did we do?</h1>
           <p className="text-lightGrey text-[0.8rem]">
             Please let us know how we did with your support request. All
             feedback is appreciated to help us improve our offering!
