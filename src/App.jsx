@@ -73,7 +73,7 @@ const App = () => {
           </p>
         </div>
         <div>
-          <h1 className="text-[1.1rem] text-center">Thank you!</h1>
+          <h1 className="text-[1.125rem] text-center">Thank you!</h1>
           <p className="text-lightGrey text-[0.8rem] text-center">
             We appreciate you taking the time to give a rating. If you ever need
             more support, don't hesitate to get in touch!
