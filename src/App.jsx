@@ -67,7 +67,7 @@ const App = () => {
         <div className="flex justify-center">
           <img src={result} alt="result" className="w-[6rem]" />
         </div>
-        <div className="py-[0.3rem] mx-auto px-[1rem] bg-darkBlue flex justify-center w-fit rounded-[50vw]">
+        <div className="py-[0.35rem] mx-auto px-[1rem] bg-darkBlue flex justify-center w-fit rounded-[50vw]">
           <p className="text-orange text-[0.7rem]">
             You selected {selectedRating} out of 5
           </p>
